@@ -11,7 +11,8 @@ For this project, the goal is two-fold:
 
 #### About the API
 
-Reddit's API is fairly straightforward. For example, if I want the posts from [`/r/boardgames`], all I have to do is add `.json` to the end of the url: https://www.reddit.com/r/boardgames.json
+Reddit's API is fairly straightforward. For example, if I want the posts from [`/r/boardgames`], all I have to do is add `.json` to the end of the url: https://www.reddit.com/r/boardgames.json.
+
 For my project, I scrapped [`/r/AskHistorians/`] (https://www.reddit.com/r/AskHistorians) and [`/r/todayilearned`] (https://www.reddit.com/r/todayilearned)
 
 
@@ -30,7 +31,7 @@ Data is collected from external sources through API's or scraping where applicab
 
 ---
 
-### Why we choose this project for you?
+### Why this project?
 This project covers three main concepts: Classification Modeling, Natural Language Processing and Data Wrangling/Acquisition.
 
 Part 1 of the project focuses on **Data wrangling/gathering/acquisition**. This is a very important skill as not all the data you will need will be in clean CSVs or a single table in SQL.  There is a good chance that data come from some unstructured/semi-structured sources; when possible, requesting information from an API, but often scraping it because they don't have an API (or it's terribly documented).
