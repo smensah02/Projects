@@ -11,8 +11,8 @@ For this project, the goal is two-fold:
 
 #### About the API
 
-Reddit's API is fairly straightforward. For example, if I wat the posts from [`/r/AskHistorians`](https://www.reddit.com/r/AskHistorians), all I have to do is add `.json` to the end of the url: https://www.reddit.com/r/boardgames.json
-For my project, I scraped '/r/AskHistorians/'and [`/r/AskHistorians`] https://www.reddit.com/r/todayilearned/
+Reddit's API is fairly straightforward. For example, if I want the posts from [`/r/boardgames`], all I have to do is add `.json` to the end of the url: https://www.reddit.com/r/boardgames.json
+For my project, I scrapped [`/r/AskHistorians/`] (https://www.reddit.com/r/AskHistorians) and [`/r/todayilearned`] (https://www.reddit.com/r/todayilearned)
 
 
 ### Requirements
